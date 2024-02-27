@@ -21,7 +21,7 @@
 9. [자연어 처리 기초](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/09-colab.ipynb)
 10. [RNN 및 Attention 메커니즘](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/10-colab.ipynb)
 11. [설명 가능한 딥러닝](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/11-colab.ipynb)
-
+12. [생성형 적대 신경망, GAN](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/12-colab.ipynb)
 
 
 - **보충 자료**
