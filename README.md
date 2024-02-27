@@ -17,9 +17,11 @@
 5. [성능 향상 기법](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/05-colab.ipynb)
 6. [실데이터 적용 사례](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/06-colab.ipynb)
 7. [이미지 분류와 CNN](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/07-colab.ipynb)
-8. [자연어 처리 기초](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/08-colab.ipynb)
-9. [RNN 및 Attention 메커니즘](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/09-colab.ipynb)
-10. [CNN과 전이 학습](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/10-colab.ipynb)
+8. [CNN과 전이 학습](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/08-colab.ipynb)
+9. [자연어 처리 기초](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/09-colab.ipynb)
+10. [RNN 및 Attention 메커니즘](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/10-colab.ipynb)
+11. [설명 가능한 딥러닝](https://colab.research.google.com/github/taehojo/AIAI-Workshop-2024/blob/master/colab/11-colab.ipynb)
+
 
 
 - **보충 자료**
